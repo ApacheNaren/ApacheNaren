@@ -3,7 +3,9 @@
 
 # Hello..  All..! <img src="https://github.com/ApacheNaren/Lakshminarayanan/blob/main/wave.gif" width="30px">
 
-This is ***Lakshminarayanan*** a ***Data Science*** aspirant. Having skill sets of ***Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing***. From Chennai, India.
+This is ***Lakshminarayanan*** a ***Data Science*** aspirant. Having skill sets of ***Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing***.  From Chennai, India.
+
+
 Anyone can find me on : &nbsp;<a href = "https://www.linkedin.com/in/apache-naren/" ><img src = "https://github.com/ApacheNaren/Lakshminarayanan/blob/main/Linkedin.png" height="20"><img></a>
 
 Anyone can also contact me via 
