@@ -3,10 +3,8 @@
 
 # Hello..  All..! <img src="https://github.com/ApacheNaren/Lakshminarayanan/blob/main/wave.gif" width="30px">
 
-This is ***Lakshminarayanan*** and I am a ***Data Science*** enthusiast. I have insights into ***Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing*** and I am extending myself towards ***Data Engineering, Cloud, and DevOps*** to achieve a level of ***Full-Stack Data Science***. I live in Pune, India. Anyone can find me on :
-Anyone can find me on :
-
-&nbsp;<a href = "https://www.linkedin.com/in/apache-naren/" ><img src = "https://github.com/ApacheNaren/Lakshminarayanan/blob/main/Linkedin.png" height="20"><img></a>
+This is ***Lakshminarayanan*** a ***Data Science*** aspirant. Have skill sets of ***Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing***. From Chennai, India.
+Anyone can find me on : &nbsp;<a href = "https://www.linkedin.com/in/apache-naren/" ><img src = "https://github.com/ApacheNaren/Lakshminarayanan/blob/main/Linkedin.png" height="20"><img></a>
 
 Anyone can also contact me via 
 &nbsp;<img src = "https://github.com/ApacheNaren/Lakshminarayanan/blob/main/gmail.png" width = 20><img> : amsanarayanan@gmail.com
