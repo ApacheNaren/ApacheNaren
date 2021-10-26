@@ -1,4 +1,4 @@
-<img src = "https://github.com/ApacheNaren/Lakshminarayanan/blob/main/Data%20Science.jpeg" height = 300 width = 100%><img>
+<img src = "https://github.com/ApacheNaren/Lakshminarayanan/blob/main/data.jpeg" height = 400 width = 100%><img>
 
 
 # Hello..  All..! <img src="https://github.com/ApacheNaren/Lakshminarayanan/blob/main/wave.gif" width="30px">
@@ -9,7 +9,7 @@ This is ***Lakshminarayanan*** a ***Data Science*** aspirant, From Chennai, Indi
 Anyone can find me on : &nbsp;<a href = "https://www.linkedin.com/in/apache-naren/" ><img src = "https://github.com/ApacheNaren/Lakshminarayanan/blob/main/Linkedin.png" height="20"><img></a>
 
 Anyone can also contact me via 
-&nbsp;<img src = "https://github.com/ApacheNaren/Lakshminarayanan/blob/main/gmail.png" width = 20><img> : amsanarayanan@gmail.com
+&nbsp;<img src = "https://github.com/ApacheNaren/Lakshminarayanan/blob/main/gmail1.png" height = 20 width = 40><img> : amsanarayanan@gmail.com
 
 ## :wrench: Job Responsiblities
 
