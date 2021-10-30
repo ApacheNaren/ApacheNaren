@@ -1,4 +1,4 @@
-<img src = "https://github.com/ApacheNaren/Lakshminarayanan/blob/main/data.jpeg" height = 400 width = 100%><img>
+<img src = "https://github.com/ApacheNaren/Lakshminarayanan/blob/main/data.jpeg" height = 350 width = 100%><img>
 
 
 # Hello..  All..! <img src="https://github.com/ApacheNaren/Lakshminarayanan/blob/main/wave.gif" width="30px">
